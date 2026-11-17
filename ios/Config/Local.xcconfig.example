@@ -1,0 +1,6 @@
+// Copy to Local.xcconfig and fill in. Find your Team ID in Xcode:
+// Settings > Accounts > (your Apple ID) > Team, or developer.apple.com/account.
+DEVELOPMENT_TEAM = YOUR_TEAM_ID
+
+// Free Apple IDs need a globally unique bundle id. Change this if Xcode says it's taken.
+// MOODSTREAM_BUNDLE_ID = com.yourname.moodstream
